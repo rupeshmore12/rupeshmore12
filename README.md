@@ -15,7 +15,7 @@
 
 - 📑 Know about my experiences(CV) [https://drive.google.com/file/d/1ecxvPxcMZ5RxevqJ-t4ywi_SrM5uZNjI/view](https://drive.google.com/file/d/1ecxvPxcMZ5RxevqJ-t4ywi_SrM5uZNjI/view)
 
-- 💬 Ask me about **Python, MySQL, ML, Artificial Neural Network**
+- 💬 Ask me about **Data Analysis, Data visualization, ML Model Building**
 
 - 📫 How to reach me **morerupesh7910@gmail.com**
 
