@@ -15,7 +15,7 @@
 
 - 📚 Proficiency in **Machine Learning, Deep Learning**
 
-- 📑 Know about my experiences(CV) [https://drive.google.com/file/d/1ecxvPxcMZ5RxevqJ-t4ywi_SrM5uZNjI/view](https://drive.google.com/file/d/1ecxvPxcMZ5RxevqJ-t4ywi_SrM5uZNjI/view)
+- 📑 Know about my experiences(CV) https://drive.google.com/file/d/1ILfkRf4ioECmivk8cCB-rl2DkT5HXkSx/view?usp=drive_link
 
 - 💬 Ask me about **Data Analysis, Data visualization, ML Model Building**
 
